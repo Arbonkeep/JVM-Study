@@ -27,6 +27,11 @@ public class Test10_3 extends ClassLoader{
         this.classLoaderName = classLoaderName;
     }
 
+    //构造方法
+    public Test10_3(ClassLoader parent) {
+        super(parent);
+    }
+
     public void setPath(String path) {
         this.path = path;
     }
