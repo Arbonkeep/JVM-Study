@@ -14,11 +14,11 @@ public class Test2 {
         in = 20;
     }
 
-    public Test2() {
+    public Test2() {//后续增加内容
 
     }
 
-    public Test2(int i) {
+    public Test2(int i) {//后续增加内容
 
     }
 
